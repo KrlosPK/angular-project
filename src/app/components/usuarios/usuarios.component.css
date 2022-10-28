@@ -1,0 +1,8 @@
+.table-head {
+    text-align: center;
+}
+.acciones {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
