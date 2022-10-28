@@ -1,3 +1,12 @@
+.hola {
+    display: flex;
+    background-color: red;
+    justify-content: space-evenly;
+}
 .logo {
     width: 3rem;
+}
+.dropdown-item:hover {
+    background:#555;
+    color:white;
 }
