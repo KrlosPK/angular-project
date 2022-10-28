@@ -6,4 +6,8 @@
 body {
   margin-top: 6.5rem;
   padding: 0 1rem;
+  background: url("../src/assets/blob-scene-haikei.svg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
